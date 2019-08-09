@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6894784728941933/2103089601</string>
+    <string name="dealer_wins">Dealer Wins:</string>
+    <string name="dealer_score">Dealer Score:</string>
+    <string name="player_wins">Player Wins:</string>
+    <string name="player_score">Player Score:</string>
+    <string name="bank">Bank:</string>
+    <string name="bet">Bet:</string>
+    <string name="tap_to_change_bet">Tap to change bet!</string>
+    <string name="bank_amount">Bank Amount</string>
+</resources>

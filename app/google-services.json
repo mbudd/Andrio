@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "557455255130",
+    "firebase_url": "https://blackjackappdev2.firebaseio.com",
+    "project_id": "blackjackappdev2",
+    "storage_bucket": "blackjackappdev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557455255130:android:bfc0cac6d53c7540",
+        "android_client_info": {
+          "package_name": "dwoodru3.blackjack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557455255130-o6tbm8r3vj07r3g303gsc3dgvr3jdmv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIAKvORlVwrgLXT-9sKMEBjVsqk6htXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
